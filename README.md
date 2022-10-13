@@ -11,4 +11,4 @@ If someone needs soundaliases, guide them here. There's a reason why this exists
 - Treyarch & Activision - Developers/Publishers of the Black Ops Mod Tools on PC
 
 # Discord
-[Venom's Mod Warehouse, the home of LinkerMod Enhanced and T5-MissingAssets](https://discord.gg/NSsYXecFxf)
+[Venom Modding, the home of T5-MissingAssets](https://ouo.io/QK00XQ)
